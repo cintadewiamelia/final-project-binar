@@ -7,7 +7,6 @@ from google.oauth2 import service_account
 
 SA_CREDENTIAL_FILE = 'credentials-kelompok-3.json'
 url_endpoint = 'https://api-mobilespecs.azharimm.site/v2/brands'
-url_endpoint2 = 'https://api-mobilespecs.azharimm.site/v2/brands/fairphone-phones-127?page=1'
 
 def extract(endpoint):
     response = requests.get(endpoint)
