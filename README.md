@@ -12,3 +12,5 @@
 ### Install Packages
 
 ### Menjalankan Scripts
+Untuk menjalankan scriptnya gunakan perintah berikut :
+<code>python filename.py</code>
