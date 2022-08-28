@@ -2,12 +2,12 @@
 
 ## Intro
 
+Repository ini merupakan project akhir binar dengan tugas membuat database dengan data dari API
+
 ## Detail ETL
 
 - Source : https://github.com/azharimm/phone-specs-api
-- Database :
-
-## Cara Menjalankan
+- Database : BigQuery Dataset ID `binar-bie7.kelompok_3`
 
 ### Install Packages
 
