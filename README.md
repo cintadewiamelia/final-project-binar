@@ -15,3 +15,6 @@ Repository ini merupakan project akhir binar dengan tugas membuat database denga
     - Phonse Spec : https://api-mobilespecs.azharimm.site/v2/brands/{brand-slug}/{phone-slug}
                    (Phone slug merupakan spesifikasi dari tipe HP)
 
+## TRD
+
+Berikut merupakan dokumen TRD dari project ini : https://bit.ly/3QidWCR
